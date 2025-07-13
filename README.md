@@ -1,16 +1,9 @@
-# bmdu_app
+This a flutter App . Login & Sign-up API is successfully implemented into the app.
 
-A new Flutter project.
+Below are Screenshot:
 
-## Getting Started
+![11](https://github.com/user-attachments/assets/1e2ef0f0-b37c-4706-b1d7-36500ce02835)
 
-This project is a starting point for a Flutter application.
+![12](https://github.com/user-attachments/assets/73de29aa-09ad-4bf8-85bb-c3984ab921a1)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![13](https://github.com/user-attachments/assets/1305303d-0227-4adf-8ce2-567086863802)
